@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626941264747",
+    "firebase_url": "https://awesome-drawing-quiz-66b99.firebaseio.com",
+    "project_id": "awesome-drawing-quiz-66b99",
+    "storage_bucket": "awesome-drawing-quiz-66b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626941264747:android:67341ad10c6dae5fd4022e",
+        "android_client_info": {
+          "package_name": "com.example.fluterrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626941264747-o03m8it0hnlp03jqsl6ng33ju6nkr22n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkry_X3Fpjaq58aOAsbFAn2ySx_jhPxt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626941264747-o03m8it0hnlp03jqsl6ng33ju6nkr22n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
